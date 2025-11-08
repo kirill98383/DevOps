@@ -1,3 +1,6 @@
 print("hello world)
 
+name = input("как вас зовут:")
+print(f"приветствую {name}.")
+
 
